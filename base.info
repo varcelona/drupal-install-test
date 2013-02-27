@@ -1,0 +1,38 @@
+name = Drupal Test install
+description = Testing Drupal install
+core = 7.x
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = menu_block
+dependencies[] = token
+dependencies[] = pathauto
+
+files[] = base.profile
+
+
+; Information added by drush on 2013-02-27
+version = "unknown"
+project = "base"
+datestamp = "1361993084"
+
