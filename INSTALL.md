@@ -1,4 +1,3 @@
-
 CONTEIDOS DE ESTE ARCHIVO
 ------------------------
 
@@ -29,6 +28,7 @@ INSTALACION
 2. Instalar Drupal
 
      cd /var/www/public_html
+     
      drush si base --db-url=mysql://[db_usuario]:[db_contraseña]@[db_host]/[db_nombre] -v
 
    Reemplazar [db_usuario], [db_contraseña], [db_host] y [db_nombre] por los valores que correspondan.
