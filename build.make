@@ -5,4 +5,4 @@ includes[] = drupal-org-core.make
 
 projects[base][type] = profile
 projects[base][download][type] = git
-projects[base][download][url] = .
+projects[base][download][url] = https://github.com/varcelona/drupal-install-test.git
